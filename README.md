@@ -40,6 +40,8 @@ A simple movie finder and management web application built with **Flask**. Users
 <img width="1849" height="916" alt="image" src="https://github.com/user-attachments/assets/93bce7f0-8099-4def-aaff-4ee0c6db7fff" />
 <img width="1833" height="924" alt="image" src="https://github.com/user-attachments/assets/38330625-a90b-432d-8373-e0ea9f1dbbab" />
 <img width="1834" height="925" alt="image" src="https://github.com/user-attachments/assets/719dbd24-e85d-4de6-b9da-d98d6a9d5f32" />
+<img width="1675" height="733" alt="image" src="https://github.com/user-attachments/assets/eea756a8-454e-470b-96c1-88c38ddfe33c" />
+
 
 ---
 
